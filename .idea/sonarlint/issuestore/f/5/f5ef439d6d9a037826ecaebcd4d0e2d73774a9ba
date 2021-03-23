@@ -1,0 +1,10 @@
+
+L
+java:S3740W"/Provide the parametrized type for this generic.(ì¥¡ý8¹‹™Ý·.
+b	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(­ñÔá8×»îÜ·.
+k
+java:S2272L"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(žÓÔç8ûµŒÝ·.
+m	java:S116
+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏºôËøÿÿÿÿ8ÈÞÆÜ·.
+£
+java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦³üëûÿÿÿÿ8ÿ¸‹Ý·.

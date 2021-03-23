@@ -1,0 +1,9 @@
+
+b	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(Š¹Ç±8ÃğÁŞ·.
+g	java:S112g"FDefine and throw a dedicated exception instead of using a generic one.(à°‘Ãûÿÿÿÿ8®üÑŞ·.
+M
+java:S3740½"/Provide the parametrized type for this generic.(ì¥¡ı8ÕŒÉß·.
+¤
+java:S1186§"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦³üëûÿÿÿÿ8ÕŒÉß·.
+b	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(Š¹Ç±8·ÎÉŞ·.
+m	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏºôËøÿÿÿÿ8÷Úåİ·.

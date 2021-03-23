@@ -1,0 +1,5 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(ÖÜÄûÿÿÿÿ8† ¨¤¹.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñóıÔûÿÿÿÿ8¥Â•š¹.
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8¢á‡«¿.

@@ -1,0 +1,11 @@
+
+s
+java:S34572"Q%n should be used in place of \n to produce the platform-specific line separator.(û¼Üâúÿÿÿÿ8şŸÒ±.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(Ÿ¬î8şŸÒ±.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(û¼Üâúÿÿÿÿ8şŸÒ±.
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8›‘†Ò°.
+V
+java:S1068"4Remove this unused "sufficientFounds" private field.(·œšâûÿÿÿÿ8’ Ú±.
+]	java:S125"<This block of commented-out lines of code should be removed.(¿¾öøÿÿÿÿ8’ Ú±.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(‹ ¹¦8şŸÒ±.

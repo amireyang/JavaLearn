@@ -1,0 +1,15 @@
+
+S
+java:S1128"6Remove this unused import 'edu.princeton.cs.algs4.In'.(„öç¯8ç¾Äß¾.
+t
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í«Ì¡şÿÿÿÿ
+I
+java:S1874!".Remove this use of "change"; it is deprecated.(Îä…úÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÌŒøÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥³Á‹
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(šµ¢
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñóıÔûÿÿÿÿ
+9
+java:S1643;"Use a StringBuilder instead.(Éı¯‡8¸ãî¾.
+k	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¥æÂÿÿÿÿÿ

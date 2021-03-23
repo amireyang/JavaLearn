@@ -1,0 +1,13 @@
+
+K
+java:S3740+"/Provide the parametrized type for this generic.(äˆ–i8û¯„·.
+k
+java:S2272T"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ÓÔç8èÃèƒ·.
+Q
+java:S3740*"/Provide the parametrized type for this generic.(–²ÍÁøÿÿÿÿ8û¯„·.
+N
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8à¸Á„·.
+
+java:S1130Y"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8—ğæ„·.
+n	java:S101G"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜Œ­úÿÿÿÿ8èÃèƒ·.
+m	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏºôËøÿÿÿÿ8Õ–îá¶.

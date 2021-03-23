@@ -1,0 +1,9 @@
+
+t
+java:S3012 "YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÌÓàðüÿÿÿÿ
+f	java:S116
+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏºôËøÿÿÿÿ
+D
+java:S2140;")Use "java.util.Random.nextInt()" instead.( ½»áüÿÿÿÿ
+E
+java:S3740I"/Provide the parametrized type for this generic.(ì¥¡ý

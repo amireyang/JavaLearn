@@ -1,0 +1,20 @@
+
+{
+java:S1171c"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ƒòÁõ·.
+R
+java:S3740†"/Provide the parametrized type for this generic.(ÔğŞıÿÿÿÿ8àÏõ·.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8›øŞó·.
+F
+java:S2140N")Use "java.util.Random.nextInt()" instead.(õÇÆ8ŠÜó·.
+F
+java:S1481w")Remove this unused "temp" local variable.(¨Ê˜8¥…Êõ·.
+m	java:S116
+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏºôËøÿÿÿÿ8§ãò·.
+F
+java:S2140.")Use "java.util.Random.nextInt()" instead.(õÇÆ8ú±Äó·.
+g	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(úˆ¡Öÿÿÿÿÿ8÷›ëó·.
+K
+java:S2140u")Use "java.util.Random.nextInt()" instead.(âôŞ‹şÿÿÿÿ8£Í±õ·.
+k
+java:S2272t"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ÓÔç8ú²ªõ·.

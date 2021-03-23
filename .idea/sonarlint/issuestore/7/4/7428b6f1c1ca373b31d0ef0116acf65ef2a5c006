@@ -1,0 +1,11 @@
+
+c
+java:S11260"AReplace this if-then-else statement by a single return statement.(ÚÕ²¾şÿÿÿÿ8òïÓ¨µ.
+Š
+java:S1130"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Ú¿¼8‡áš˜µ.
+C	java:S131A""Add a default case to this switch.(ì»¾úÿÿÿÿ8üµİ¦µ.
+
+java:S1130"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ğ‰˜éûÿÿÿÿ8òïÓ¨µ.
+^	java:S125‡"<This block of commented-out lines of code should be removed.(çàÑòøÿÿÿÿ8â§§µ.
+l
+java:S3008"ORename this field "DAYS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û£Ñô8òïÓ¨µ.

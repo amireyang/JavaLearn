@@ -1,0 +1,10 @@
+
+r	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿæ©äøÿÿÿÿ8¾Î±ë³.
+o	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿæ©äøÿÿÿÿ8¾Î±ë³.
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8¶Ä±Ñ¶.
+E
+java:S1481z"(Remove this unused "cnt" local variable.(¢ó¢‰8ìšÒ¶.
+r	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃŸé»øÿÿÿÿ8¹Ê ë³.
+F
+java:S2140}")Use "java.util.Random.nextInt()" instead.(“Ç€‚8¶Ä±Ñ¶.

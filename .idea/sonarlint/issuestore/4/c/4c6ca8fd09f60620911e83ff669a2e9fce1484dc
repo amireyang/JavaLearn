@@ -1,0 +1,17 @@
+
+m	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ³¼ì8²ä¤Š¾.
+o	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ø½şÿÿÿÿ8¡¡Îƒ¾.
+I
+java:S1612o",Replace this lambda with a method reference.(¡¨Õ¹8«——Õ¾.
+r	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Êâıùÿÿÿÿ8æ—¥Š¾.
+I
+java:S1481j"'Remove this unused "g2" local variable.(Î¿¢şÿÿÿÿ8œ›¡Õ¾.
+h	java:S116"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÍØ8ì•ºƒ¾.
+o	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÈÒôıÿÿÿÿ8¡¡Îƒ¾.
+h	java:S116
+"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Øà8ì•ºƒ¾.
+E
+java:S1905"(Remove this unnecessary cast to "Bag[]".(›¸Áº8¢ÓŞ¾.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úƒ¡¼ùÿÿÿÿ8ê¼ƒ¾.
+E
+java:S1905"(Remove this unnecessary cast to "Bag[]".(›¸Áº8‰ƒ¡Ş¾.

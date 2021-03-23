@@ -1,0 +1,12 @@
+
+k
+java:S2272A"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ÓÔç8 ®ƒã¶.
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(«»¦ø8ã»¨ã¶.
+v
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ô¬òà8üÃ‰ä¶.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(©ãß®ùÿÿÿÿ8ã»¨ã¶.
+n
+java:S1192H"LDefine a constant instead of duplicating this literal "a.length = " 5 times.(‹ñÙşÿÿÿÿ8‹¦üã¶.
+£
+java:S11867"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦³üëûÿÿÿÿ8 ®ƒã¶.
+m	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏºôËøÿÿÿÿ8š›éâ¶.

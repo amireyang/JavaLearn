@@ -1,0 +1,6 @@
+
+i	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Þñ´…8øÁŸ”µ.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÑÎã8ýê´”µ.
+;
+java:S2119"Save and re-use this "Random".(¡Å”¦8µ¸€•µ.

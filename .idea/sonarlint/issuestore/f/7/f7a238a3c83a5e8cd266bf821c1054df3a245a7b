@@ -1,0 +1,15 @@
+
+l	java:S127$"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ñ÷Ê@
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äå±–ùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äå±–ùÿÿÿÿ
+k	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞÜÿÏøÿÿÿÿ
+4
+java:S2119"Save and re-use this "Random".(¡Å”¦
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(‘×çªüÿÿÿÿ
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(…Ø¥Žøÿÿÿÿ
+l
+java:S3457."Q%n should be used in place of \n to produce the platform-specific line separator.(™ó¸ßûÿÿÿÿ
+<
+java:S1481"&Remove this unused "r" local variable.(¡Å”¦

@@ -1,0 +1,24 @@
+
+o	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ø½şÿÿÿÿ8íÑŠì¹.
+’
+java:S13195"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÿ¯Œ«ûÿÿÿÿ8ÙÆ°ì¹.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æû­‡8˜…ì¹.
+h	java:S116"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÍØ8‚ñÿë¹.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÙÆ°ì¹.
+D
+java:S1068"(Remove this unused "path" private field.(·÷´R8Î—‹î¹.
+m
+java:S1149g"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÃÖ‘ø8İ•‚î¹.
+V
+java:S1128"9Remove this unused import 'edu.princeton.cs.algs4.Graph'.(ï’²8™Ãôí¹.
+m
+java:S1149g"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÃÖ‘ø8İ•‚î¹.
+
+java:S1186q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8øÂŠí¹.
+U
+java:S1117g"8Rename "path" which hides the field declared at line 13.(ÃÖ‘ø8€»Šî¹.
+h	java:S116
+"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ìò8è£ùë¹.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñóıÔûÿÿÿÿ
+o	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÈÒôıÿÿÿÿ8íÑŠì¹.

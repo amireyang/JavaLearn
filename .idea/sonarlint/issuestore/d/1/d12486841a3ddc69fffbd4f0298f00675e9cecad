@@ -1,0 +1,140 @@
+
+Y	java:S125•"<This block of commented-out lines of code should be removed.(æøÖö8‹øÄÂÍ.
+`
+java:S2184Ç"BCast one of the operands of this division operation to a "double".(Š¥ãá8‹øÄÂÍ.
+D
+java:S1659Ö"!Declare "sum" on a separate line.(òüŸ›üÿÿÿÿ8‹øÄÂÍ.
+K
+java:S1481Ö"(Remove this unused "min" local variable.(òüŸ›üÿÿÿÿ8‹øÄÂÍ.
+<
+java:S1659N"Declare "m" on a separate line.(„šÏí8ò¡ş»Í.
+v
+java:S18450"YRename field "g" to prevent any misunderstanding/clash with field "G" defined on line 45.(»ëÜ°8ÕšĞÚÁ.
+\
+java:S4973á"9Use the "equals" method if value comparison was intended.(§ŒÃÌşÿÿÿÿ8‹øÄÂÍ.
+<
+java:S2119"Save and re-use this "Random".(¡Å”¦8‹øÄÂÍ.
+n	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é™®—8­¶ÄÂÍ.
+B
+java:S1659Á"Declare "l" on a separate line.(Ç¯œìşÿÿÿÿ8‹øÄÂÍ.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïú–Şøÿÿÿÿ8‹øÄÂÍ.
+t	java:S116#"XRename this field "num_delivered" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÏîé8†«•œ¹.
+j
+java:S3973€"GUse indentation to denote the code conditionally executed by this "if".(×†ùªÿÿÿÿÿ8‹øÄÂÍ.
+B
+java:S10680"%Remove this unused "g" private field.(»ëÜ°8³ÍÆŞÈ.
+v	java:S116%"URename this field "start_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¡¯úÿÿÿÿ8ß¨ßè¾.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñóıÔûÿÿÿÿ8œÕı™¹.
+\
+java:S4719Å"9Replace charset name argument with StandardCharsets.UTF_8(‰’Ö©ıÿÿÿÿ8‹øÄÂÍ.
+C
+java:S11701"!Make this final field static too.(±€•€üÿÿÿÿ8Ú´ÒÚÁ.
+^	java:S125õ"<This block of commented-out lines of code should be removed.(äéÃÔşÿÿÿÿ8‹øÄÂÍ.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°¢Éàüÿÿÿÿ8ß¨ßè¾.
+P
+java:S1481"-Remove this unused "part_num" local variable.(ïú–Şøÿÿÿÿ8‹øÄÂÍ.
+F
+java:S1659…"#Declare "endid" on a separate line.(‹²Êúÿÿÿÿ8‹øÄÂÍ.
+^	java:S125Ã"<This block of commented-out lines of code should be removed.(ÓÇê«ûÿÿÿÿ8‹øÄÂÍ.
+j	java:S116&"NRename this field "TTL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç÷Ü‰8†«•œ¹.
+v	java:S116;"URename this field "contact_nc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÜŸüÿÿÿÿ8¥§©ÚÈ.
+t	java:S1169"XRename this field "real_num_line" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğã8ˆëôÛÈ.
+}	java:S116"aRename this field "Max_number_contact_N2N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÂÄß8ß¨ßè¾.
+e
+java:S3973×"GUse indentation to denote the code conditionally executed by this "if".(Éãè³8‹øÄÂÍ.
+o
+java:S1871n"MThis branch's code block is the same as the block for the branch on line 107.(Øâÿÿÿÿÿ8­¶ÄÂÍ.
+t	java:S116"SRename this field "Cum_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°„¬öûÿÿÿÿ8ß¨ßè¾.
+n	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ï„õ8‹øÄÂÍ.
+E
+java:S1068"(Remove this unused "beta" private field.(½è¨‘8ıë´ğ¾.
+w	java:S116"VRename this field "impact_node" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡½Œãşÿÿÿÿ8ß¨ßè¾.
+>
+java:S11700"!Make this final field static too.(»ëÜ°8ÕšĞÚÁ.
+m	java:S116-"LRename this field "G" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¬Œ‚şÿÿÿÿ8¥é¾.
+t	java:S116("SRename this field "end_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­öèâøÿÿÿÿ8ß¨ßè¾.
+p	java:S100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‰Ë¤ÿÿÿÿÿ8‹øÄÂÍ.
+u
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ºÕº¾ÿÿÿÿÿ8‹øÄÂÍ.
+|	java:S116"[Rename this field "impact_community" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁåÌ÷ıÿÿÿÿ8ß¨ßè¾.
+Y	java:S125ğ"<This block of commented-out lines of code should be removed.(Ûäæ8‹øÄÂÍ.
+s	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡±ëøÿÿÿÿ8‹øÄÂÍ.
+K
+java:S10681")Remove this unused "alpha" private field.(±€•€üÿÿÿÿ8³ÍÆŞÈ.
+N
+java:S1481Ö"+Remove this unused "belong" local variable.(òüŸ›üÿÿÿÿ8‹øÄÂÍ.
+m	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Ò…98‹øÄÂÍ.
+w
+java:S1450"URemove the "source" field and declare it as a local variable in the relevant methods.(ı¯Œ±şÿÿÿÿ8ß¨ßè¾.
+B
+java:S1659Á"Declare "j" on a separate line.(Ç¯œìşÿÿÿÿ8‹øÄÂÍ.
+D
+java:S1659""Declare "dest" on a separate line.(ı¯Œ±şÿÿÿÿ8ß¨ßè¾.
+l	java:S116"PRename this field "Data1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ì¸ç8ˆëôÛÈ.
+B
+java:S1659™"$Declare "ratio3" on a separate line.(Ùİ8‹øÄÂÍ.
+s	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ôÄşùÿÿÿÿ8‹øÄÂÍ.
+X	java:S125“"<This block of commented-out lines of code should be removed.(“‚è8‹øÄÂÍ.
+>
+java:S1170"!Make this final field static too.(½è¨‘8ß¨ßè¾.
+B
+java:S1659Á"Declare "k" on a separate line.(Ç¯œìşÿÿÿÿ8‹øÄÂÍ.
+G
+java:S1659Ö"$Declare "belong" on a separate line.(òüŸ›üÿÿÿÿ8‹øÄÂÍ.
+D
+java:S2185Ç"&Remove this silly call to "Math.floor"(Š¥ãá8‹øÄÂÍ.
+j	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñşŠü8ò¡ş»Í.
+_
+java:S1128"=Remove this unused import 'algorithms_study.chapter_4.Graph'.(üÈ³Õşÿÿÿÿ8àÄ¥é¾.
+s
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š»³ ùÿÿÿÿ8†«•œ¹.
+q
+java:S3776¿"SRefactor this method to reduce its Cognitive Complexity from 492 to the 15 allowed.(á¡Û´8‹øÄÂÍ.
+r
+java:S1450-"PRemove the "G" field and declare it as a local variable in the relevant methods.(´¬Œ‚şÿÿÿÿ8Ø¥µ¼Í.
+B
+java:S1659Á"Declare "g" on a separate line.(Ç¯œìşÿÿÿÿ8‹øÄÂÍ.
+M
+java:S1066®"/Merge this if statement with the enclosing one.(Èú‰ş8‹øÄÂÍ.
+C
+java:S1170"!Make this final field static too.(©ÚÕìûÿÿÿÿ8†«•œ¹.
+e
+java:S3973ì"GUse indentation to denote the code conditionally executed by this "if".(ËÍã8‹øÄÂÍ.
+p	java:S116"ORename this field "Data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç…ûÃşÿÿÿÿ8œÕı™¹.
+v	java:S116"URename this field "Num_packet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”´¦ñÿÿÿÿÿ8ß¨ßè¾.
+`
+java:S2184Ç"BCast one of the operands of this division operation to a "double".(Š¥ãá8‹øÄÂÍ.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÚ½Âøÿÿÿÿ8‹øÄÂÍ.
+<
+java:S1659?"Declare "b" on a separate line.(™Ê€8‹·ãçÈ.
+t	java:S116:"XRename this field "contactnum_nc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üõ¾¼8¥§©ÚÈ.
+Y	java:S125‡"<This block of commented-out lines of code should be removed.(„ïàï8‹øÄÂÍ.
+p	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÕº¾ÿÿÿÿÿ8‹øÄÂÍ.
+{
+java:S1171C"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ò¡ş»Í.
+W
+java:S4973Ô"9Use the "equals" method if value comparison was intended.(×‘îÀ8‹øÄÂÍ.
+W
+java:S1128":Remove this unused import 'edu.princeton.cs.algs4.StdOut'.(³ùå8çÙ¥ğ¾.
+Y	java:S125‹"<This block of commented-out lines of code should be removed.(ÿÈ‹™8‹øÄÂÍ.
+D
+java:S2185Ç"&Remove this silly call to "Math.floor"(Š¥ãá8‹øÄÂÍ.
+C
+java:S1170"!Make this final field static too.(”´¦ñÿÿÿÿÿ8ß¨ßè¾.
+s	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¯¶Óıÿÿÿÿ8‹øÄÂÍ.
+<
+java:S1659`"Declare "m" on a separate line.(„šÏí8Ç¹¼Í.
+n	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ä¯ô8‹øÄÂÍ.
+B
+java:S1659™"$Declare "ratio2" on a separate line.(Ùİ8‹øÄÂÍ.
+n	java:S116"MRename this field "Du" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÚÕìûÿÿÿÿ8†«•œ¹.
+I
+java:S1659"&Declare "part_num" on a separate line.(ïú–Şøÿÿÿÿ8‹øÄÂÍ.
+u	java:S135g"YReduce the total number of break and continue statements in this loop to use at most one.(™êµç8‹øÄÂÍ.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†øÄÂ8ß¨ßè¾.
+t	java:S116""SRename this field "num_copy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒşË€úÿÿÿÿ8ß¨ßè¾.
+j
+java:S2095Æ"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(âûáş8‹øÄÂÍ.
+X
+java:S1117Á"5Rename "g" which hides the field declared at line 48.(Ç¯œìşÿÿÿÿ8‹øÄÂÍ.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÁ¥é8‹øÄÂÍ.

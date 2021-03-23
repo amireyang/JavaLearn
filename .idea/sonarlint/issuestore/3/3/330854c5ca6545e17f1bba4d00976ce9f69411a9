@@ -1,0 +1,26 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§‰®Åüÿÿÿÿ8ÿ¤ùè¾.
+>
+java:S1905"(Remove this unnecessary cast to "Bag[]".(Ñ÷Íø
+{
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(£Í¦œûÿÿÿÿ8”Ô­ê¾.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„ŒĞ«8˜¢óè¾.
+h	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ø½şÿÿÿÿ
+7
+java:S1643H"Use a StringBuilder instead.(šœÙîÿÿÿÿÿ
+V
+java:S1117"4Rename "E" which hides the field declared at line 8.(§‰®Åüÿÿÿÿ8ÿ¤ùè¾.
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÎ×Éøÿÿÿÿ
+h	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÈÒôıÿÿÿÿ
+9
+java:S1643F"Use a StringBuilder instead.(ÚÜ8˜¢óè¾.
+f	java:S116"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÆàÃøÿÿÿÿ
+S
+java:S1128"6Remove this unused import 'edu.princeton.cs.algs4.In'.(„öç¯8µÑùŞ¾.
+H
+java:S1481"&Remove this unused "E" local variable.(§‰®Åüÿÿÿÿ8û´é¾.
+7
+java:S1643D"Use a StringBuilder instead.(¬Œµøÿÿÿÿ
+a	java:S116"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¹’Õ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñóıÔûÿÿÿÿ
